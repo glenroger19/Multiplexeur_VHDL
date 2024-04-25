@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1713882316">
+  <File Type="ROUTE-PWR" Name="multiplexeur_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="multiplexeur.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="multiplexeur_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="multiplexeur_reports.tcl"/>
+  <File Type="OPT-RQA-PB" Name="multiplexeur_rqa_opted.pb"/>
+  <File Type="BITSTR-MMI" Name="multiplexeur.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="multiplexeur_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="multiplexeur_timing_summary_init.rpt"/>
+  <File Type="OPT-TIMING" Name="multiplexeur_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="multiplexeur_opt.dcp"/>
+  <File Type="OPT-DRC" Name="multiplexeur_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="multiplexeur.hwdef"/>
+  <File Type="PWROPT-DCP" Name="multiplexeur_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="multiplexeur_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="multiplexeur_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="multiplexeur_placed.dcp"/>
+  <File Type="PLACE-IO" Name="multiplexeur_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="multiplexeur_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="multiplexeur_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="multiplexeur_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="multiplexeur_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="multiplexeur_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="multiplexeur_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="multiplexeur.bin"/>
+  <File Type="PLACE-TIMING" Name="multiplexeur_timing_summary_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="multiplexeur_power_routed.rpx"/>
+  <File Type="PLACE-RQA-PB" Name="multiplexeur_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="multiplexeur_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="multiplexeur.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="multiplexeur_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="multiplexeur_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="multiplexeur_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="multiplexeur.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="multiplexeur_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="multiplexeur_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="multiplexeur_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="multiplexeur_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="multiplexeur_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="multiplexeur_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="multiplexeur_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="multiplexeur_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="multiplexeur_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="multiplexeur_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-RQS-PB" Name="multiplexeur_rqs_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="multiplexeur_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="multiplexeur_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="multiplexeur_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="multiplexeur_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="multiplexeur_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="multiplexeur_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="multiplexeur_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="multiplexeur_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="multiplexeur_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="multiplexeur_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="multiplexeur_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="multiplexeur_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="multiplexeur_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="multiplexeur_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="multiplexeur_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="multiplexeur_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="multiplexeur.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="multiplexeur_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="multiplexeur_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="multiplexeur.nky"/>
+  <File Type="BITSTR-BMM" Name="multiplexeur_bd.bmm"/>
+  <File Type="PDI-FILE" Name="multiplexeur.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="multiplexeur_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="multiplexeur_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="multiplexeur.rcfi"/>
+  <File Type="CFI_FILE" Name="multiplexeur.cfi"/>
+  <File Type="RNPI_FILE" Name="multiplexeur.rnpi"/>
+  <File Type="NPI_FILE" Name="multiplexeur.npi"/>
+  <File Type="RBD_FILE" Name="multiplexeur.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="multiplexeur.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="multiplexeur.sysdef"/>
+  <File Type="BG-BGN" Name="multiplexeur.bgn"/>
+  <File Type="BG-DRC" Name="multiplexeur.drc"/>
+  <File Type="RDI-RDI" Name="multiplexeur.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="multiplexeur_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="multiplexeur_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/tp2_top.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../TP1_2/TP1_2.srcs/sources_1/new/tp2_top.vhd"/>
+        <Attr Name="ImportTime" Val="1713290115"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="multiplexeur"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../basys3.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/tp2_top.dcp">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../TP1_2/TP1_2.srcs/utils_1/imports/synth_1/tp2_top.dcp"/>
+        <Attr Name="ImportTime" Val="1706780413"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
